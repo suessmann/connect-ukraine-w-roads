@@ -1,4 +1,4 @@
-# Bulding roads in the Ukraine!
+# Bulding roads in Ukraine!
 The aim of this project was to connect the most populated cities in Ukraine via roads. 
 
 ![final result](./img/map.png)
