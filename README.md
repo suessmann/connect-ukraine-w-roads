@@ -17,19 +17,19 @@ I wrote a few different algorithms for solving MST task. The list of them:
 * [Prim's](https://en.wikipedia.org/wiki/Prim%27s_algorithm)
 
 ## Contents of repo
-*Algorithms*
+**Algorithms**
 ```
 |-- algos
 	|-- mst.py # All three algorithms
 ``` 
-*Notebooks*
+**Notebooks**
 ```
 |-- notebooks
 	|-- data_wrangling.ipynb # Downloading and preprocessing data
 	|-- map.ipynb # Building a map and comparing distances
 ```
 
-*Map*
+**Map**
 ```
 |-- map.html # The resulting map itself. Ambient music inside!
 ```
